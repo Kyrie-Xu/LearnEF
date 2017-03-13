@@ -1,9 +1,0 @@
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\MyFrameWork.EF.dll.config
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\MyFrameWork.EF.dll
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\MyFrameWork.EF.pdb
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\EntityFramework.dll
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\EntityFramework.xml
-E:\GitProject\LearnEF\MyEf\MyEf\bin\Debug\zh-Hans\EntityFramework.resources.dll
-E:\GitProject\LearnEF\MyEf\MyEf\obj\Debug\MyFrameWork.EF.csprojResolveAssemblyReference.cache
-E:\GitProject\LearnEF\MyEf\MyEf\obj\Debug\MyFrameWork.EF.dll
-E:\GitProject\LearnEF\MyEf\MyEf\obj\Debug\MyFrameWork.EF.pdb
