@@ -1,0 +1,10 @@
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\MyFrameWork.Services.Interface.dll
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\MyFrameWork.Services.Interface.pdb
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\MyFrameWork.EF.dll
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\EntityFramework.dll
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\MyFrameWork.EF.pdb
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\EntityFramework.xml
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\obj\Debug\MyFrameWork.Services.Interface.csprojResolveAssemblyReference.cache
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\obj\Debug\MyFrameWork.Services.Interface.dll
+E:\GitProject\LearnEF\MyEf\MyFrameWork.Services.interface\obj\Debug\MyFrameWork.Services.Interface.pdb
