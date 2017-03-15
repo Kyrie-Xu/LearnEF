@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameWork.MvcWeb", "MyFra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameWork.MvcWeb.Tests", "MyFrameWork.MvcWeb.Tests\MyFrameWork.MvcWeb.Tests.csproj", "{AF9D8363-9575-4933-BFC8-3DD84C0D487C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameWork.WebAPI", "MyFrameWork.WebAPI\MyFrameWork.WebAPI.csproj", "{5B48B20B-8F5F-4E53-BFD3-7A876AC94C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFrameWork.WebAPI.Tests", "MyFrameWork.WebAPI.Tests\MyFrameWork.WebAPI.Tests.csproj", "{05A05D30-692C-48F6-B17D-4B0D97ED61FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,14 @@ Global
 		{AF9D8363-9575-4933-BFC8-3DD84C0D487C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF9D8363-9575-4933-BFC8-3DD84C0D487C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF9D8363-9575-4933-BFC8-3DD84C0D487C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B48B20B-8F5F-4E53-BFD3-7A876AC94C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B48B20B-8F5F-4E53-BFD3-7A876AC94C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B48B20B-8F5F-4E53-BFD3-7A876AC94C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B48B20B-8F5F-4E53-BFD3-7A876AC94C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A05D30-692C-48F6-B17D-4B0D97ED61FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A05D30-692C-48F6-B17D-4B0D97ED61FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A05D30-692C-48F6-B17D-4B0D97ED61FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A05D30-692C-48F6-B17D-4B0D97ED61FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

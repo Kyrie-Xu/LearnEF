@@ -20,3 +20,6 @@ E:\GitProject\LearnEF\MyFrameWork.MvcWeb\bin\MyFrameWork.Dao.Implement.pdb
 E:\GitProject\LearnEF\MyFrameWork.Dao.Implement\obj\Debug\MyFrameWork.Dao.Implement.csprojResolveAssemblyReference.cache
 E:\GitProject\LearnEF\MyFrameWork.Dao.Implement\obj\Debug\MyFrameWork.Dao.Implement.dll
 E:\GitProject\LearnEF\MyFrameWork.Dao.Implement\obj\Debug\MyFrameWork.Dao.Implement.pdb
+E:\GitProject\LearnEF\MyFrameWork.WebAPI\bin\MyFrameWork.Dao.Implement.dll.config
+E:\GitProject\LearnEF\MyFrameWork.WebAPI\bin\MyFrameWork.Dao.Implement.dll
+E:\GitProject\LearnEF\MyFrameWork.WebAPI\bin\MyFrameWork.Dao.Implement.pdb

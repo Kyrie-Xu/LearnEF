@@ -23,3 +23,5 @@ E:\GitProject\LearnEF\MyFrameWork.MvcWeb\bin\MyFrameWork.Services.Implement.pdb
 E:\GitProject\LearnEF\MyFrameWork.Services.Implement\obj\Debug\MyFrameWork.Services.Implement.csprojResolveAssemblyReference.cache
 E:\GitProject\LearnEF\MyFrameWork.Services.Implement\obj\Debug\MyFrameWork.Services.Implement.dll
 E:\GitProject\LearnEF\MyFrameWork.Services.Implement\obj\Debug\MyFrameWork.Services.Implement.pdb
+E:\GitProject\LearnEF\MyFrameWork.WebAPI\bin\MyFrameWork.Services.Implement.dll
+E:\GitProject\LearnEF\MyFrameWork.WebAPI\bin\MyFrameWork.Services.Implement.pdb
