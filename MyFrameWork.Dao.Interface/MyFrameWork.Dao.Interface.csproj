@@ -43,9 +43,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyEf\MyFrameWork.EF.csproj">
-      <Project>{c1070562-9107-4a97-b0a0-98634c917de0}</Project>
-      <Name>MyFrameWork.EF</Name>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MyFrameWork.Models\MyFrameWork.Models.csproj">
+      <Project>{d6e9f28e-23ee-4bb0-bc84-d867de228b6a}</Project>
+      <Name>MyFrameWork.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

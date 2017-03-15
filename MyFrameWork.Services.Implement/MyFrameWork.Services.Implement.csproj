@@ -43,17 +43,13 @@
     <Compile Include="StudentService.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyEf\MyFrameWork.EF.csproj">
-      <Project>{c1070562-9107-4a97-b0a0-98634c917de0}</Project>
-      <Name>MyFrameWork.EF</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\MyFrameWork.Dao.Implement\MyFrameWork.Dao.Implement.csproj">
-      <Project>{37e896aa-1c2b-4073-9c85-221409f4ddb0}</Project>
-      <Name>MyFrameWork.Dao.Implement</Name>
-    </ProjectReference>
     <ProjectReference Include="..\MyFrameWork.Dao.Interface\MyFrameWork.Dao.Interface.csproj">
       <Project>{f7604e07-072c-4478-84a0-1dc3863b2343}</Project>
       <Name>MyFrameWork.Dao.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MyFrameWork.Models\MyFrameWork.Models.csproj">
+      <Project>{d6e9f28e-23ee-4bb0-bc84-d867de228b6a}</Project>
+      <Name>MyFrameWork.Models</Name>
     </ProjectReference>
     <ProjectReference Include="..\MyFrameWork.Services.interface\MyFrameWork.Services.Interface.csproj">
       <Project>{76b4dae5-d696-4b82-b0a0-9f6c9a50cb08}</Project>

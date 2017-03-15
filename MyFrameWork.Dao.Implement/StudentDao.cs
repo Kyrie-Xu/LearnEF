@@ -4,32 +4,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MyFrameWork.EF;
 using System.Linq.Expressions;
+using MyFrameWork.Models.Models;
 
 namespace MyFrameWork.Dao.Implement
 {
     public class StudentDao : IStudentDao
     {
-        MyFrameWorkEntities context = new MyFrameWorkEntities();
+        MyFrameWorkContext context = new MyFrameWorkContext();
 
-        public void Add(MyFrameWork.EF.Student student)
+        public void Add(Student student)
         {
-            context.Student.Add(student);
+            context.Students.Add(student);
             context.SaveChanges();
         }
 
-        public List<MyFrameWork.EF.Student> FindByOptions(Expression<Func<Student,bool>> selector )
+        public List<Student> FindByOptions(Expression<Func<Student,bool>> selector )
         {
-            return context.Student.Where(selector).ToList<Student>();
+            return context.Students.Where(selector).ToList<Student>();
         }
 
-        public void Update(MyFrameWork.EF.Student student)
+        public void Update(Student student)
         {
             throw new NotImplementedException();
         }
 
-        public void Delete(MyFrameWork.EF.Student student)
+        public void Delete(Student student)
         {
             throw new NotImplementedException();
         }

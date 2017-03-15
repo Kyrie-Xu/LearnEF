@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using MyFrameWork.Services.Interface;
-using MyFrameWork.EF;
+using MyFrameWork.Models.Models;
 
 namespace MyFrameWork.MvcWeb.Controllers
 {
