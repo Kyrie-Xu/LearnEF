@@ -1,0 +1,14 @@
+obj
+bin
+/MyFrameWork.WebAPI.Tests/*
+/MyFrameWork.WebAPI/*
+/MyFrameWork.Utils/bin
+/MyFrameWork.Utils/obj
+/MyFrameWork.Services.interface/*
+/MyFrameWork.Services.Implement/*
+/MyFrameWork.MvcWeb.Tests/*
+/MyFrameWork.MvcWeb/*
+/MyFrameWork.Models/*
+/MyFrameWork.Dao.Interface/*
+/MyFrameWork.Dao.Implement/*
+/MyEf/*

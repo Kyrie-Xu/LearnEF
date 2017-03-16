@@ -1,4 +1,0 @@
-E:\GitProject\LearnEF\MyFrameWork.Utils\bin\Debug\MyFrameWork.Utils.dll
-E:\GitProject\LearnEF\MyFrameWork.Utils\bin\Debug\MyFrameWork.Utils.pdb
-E:\GitProject\LearnEF\MyFrameWork.Utils\obj\Debug\MyFrameWork.Utils.dll
-E:\GitProject\LearnEF\MyFrameWork.Utils\obj\Debug\MyFrameWork.Utils.pdb
