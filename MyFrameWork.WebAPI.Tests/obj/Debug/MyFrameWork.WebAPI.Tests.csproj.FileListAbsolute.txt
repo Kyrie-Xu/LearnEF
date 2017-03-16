@@ -75,7 +75,7 @@ E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\zh-Hans\System.Spatial.
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\zh-Hans\System.Web.Optimization.resources.dll
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\zh-Hans\System.Web.Http.Tracing.resources.dll
-E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\obj\Debug\MyFrameWork.WebAPI.Tests.csprojResolveAssemblyReference.cache
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\obj\Debug\MyFrameWork.WebAPI.Tests.dll
 E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\obj\Debug\MyFrameWork.WebAPI.Tests.pdb
+E:\GitProject\LearnEF\MyFrameWork.WebAPI.Tests\bin\Debug\log4net.dll
